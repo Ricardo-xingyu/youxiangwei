@@ -202,7 +202,7 @@ lili:
     #支付密码
     WALLET_PASSWORD: SMS_205755301
   system:
-    isTestModel: true
+    isTestModel: false
   statistics:
     # 在线人数统计 X 小时。这里设置48，即统计过去48小时每小时在线人数
     onlineMember: 48
@@ -220,8 +220,8 @@ lili:
     admin: https://admin.b2b2c.pickmall.cn
   #api地址
   api:
-    buyer: https://buyer-api.pickmall.cn
-    common: https://common-api.pickmall.cn
+    buyer: https://buyer-api.youxiangwei.com
+    common: https://common-api.youxiangwei.com
     manager: https://admin-api.pickmall.cn
     store: https://store-api.pickmall.cn
 

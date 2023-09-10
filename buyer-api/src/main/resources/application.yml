@@ -221,8 +221,8 @@ lili:
     admin: https://admin-b2b2c.pickmall.cn
   #api地址
   api:
-    buyer: https://buyer-api.youxiangwei.cn
-    common: https://common-api.youxiangwei.cn
+    buyer: https://buyer-api.youxiangwei.com
+    common: https://common-api.youxiangwei.com
     manager: https://admin-api.pickmall.cn
     store: https://store-api.pickmall.cn
 
@@ -290,3 +290,5 @@ xxl:
       port: 8891
       logpath: ./xxl-job/executor
       logretentiondays: 7
+
+

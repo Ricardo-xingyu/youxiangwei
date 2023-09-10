@@ -13,7 +13,7 @@ import java.io.Serializable;
 @Data
 public class SmsSetting implements Serializable {
     /**
-     * 从上到下yi依次是
+     * 从上到下依次是
      * 节点地址
      * key
      * 密钥

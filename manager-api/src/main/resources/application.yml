@@ -24,7 +24,8 @@ management:
 spring:
   application:
     name: manager-api
-  # 要在其中注册的Spring Boot Admin Server的URL。
+  # 要在其中注册的Spring Boot Admin Server的URL。ls
+
   boot:
     admin:
       client:
@@ -204,8 +205,8 @@ lili:
     admin: https://admin.b2b2c.pickmall.cn
   #api地址
   api:
-    buyer: https://buyer-api.pickmall.cn
-    common: https://common-api.pickmall.cn
+    buyer: https://buyer-api.youxiangwei.com
+    common: https://common-api.youxiangwei.com
     manager: https://admin-api.pickmall.cn
     store: https://store-api.pickmall.cn
 
